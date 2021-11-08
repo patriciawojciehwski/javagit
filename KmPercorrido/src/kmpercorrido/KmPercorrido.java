@@ -26,6 +26,8 @@ public class KmPercorrido {
          System.out.println("Você percorreu o total de " + kmTotal + "KM");
          System.out.println("A sua média é " + consumo);
          
+         
+         
     }
     
 }
